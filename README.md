@@ -6,3 +6,11 @@ Trick for getting wireshark data from other computer in host computer
 ![alt text](Fig/remove.png)
 
 
+Eurecom DNS:
+'
+  ue_dns:
+    primary_ipv4: "172.21.3.100"
+    primary_ipv6: "2001:4860:4860::8888"
+    secondary_ipv4: "8.8.8.8"
+    secondary_ipv6: "2001:4860:4860::8888"
+'
